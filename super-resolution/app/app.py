@@ -9,7 +9,7 @@ st.write("Hotel? Trivago. Low Quality Image? Super Resolution.")
 
 uploaded_file = st.file_uploader("Choose a Low Quality Image...", type=["jpg", "jpeg", "png"])
 
-weights_pth = r"c:\codings\Envision\SuperResWeights.pth"
+weights_pth = r"c:\codings\Envision\Repo\autoencoder-image-quality-manipulation\super-resolution\weights\SuperResWeights.pth"  #Enter path to model weights here
 
 def enhance_image(input_image_pth):
     output_image = Enhance(input_image_pth, weights_pth)
