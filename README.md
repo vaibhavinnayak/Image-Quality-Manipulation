@@ -1,4 +1,4 @@
-**#Mentors**
+**Mentors**
 
 - Aakarsh Bansal
 - Abhishek Srinivas
