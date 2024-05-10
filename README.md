@@ -11,10 +11,10 @@
 - Sai Akhilesh Donga
 - Sanga Balanarsimha
 - Sarth Shah
+- Utkarsh Shukla
 - Vaibhavi Nagaraja Nayak
 - Vanshika Mittal
 - Vedh Adla
-- Utkarsh Shukla
 
 **Aim**
 
@@ -22,8 +22,6 @@
 - To create a simple frontend(Streamlit) to deploy the model.
 
 **Introduction and Overview**
-
-[REPO LINK](https://github.com/raajanwankhade/autoencoder-image-quality-manipulation)
 
 In our project, we use the capabilities of **deep autoencoders** to enhance image quality. By using super-resolution and noise removal techniques, our project aims to tackle two of the most important problems with Image Quality. Deep autoencoders unveil intricate details within images, making them significant tools in applications requiring image quality preservation and restoration such as medical diagnostics, surveillance, and satellite imagery.
 
@@ -73,24 +71,24 @@ We were able to build 2 models that could successfully perform denoising and sup
 **Running the Streamlit App**
 
 First, please ensure that you have installed Git on your system. Also install streamlit on your system using the command:
-
+```
 pip install streamlit
-
+```
 Now, to run the app, please follow the given instructions:
-
+```
 git clone https://github.com/raajanwankhade/autoencoder-image-quality-manipulation 
-
+```
 After this, for super resolution:
-
+```
 cd autoencoder-image-quality-manipulation/super-resolution/app
-
+```
 For denoising,
-
+```
 cd autoencoder-image-quality-manipulation/xray-denoising/app
-
+```
 After this:
-
+```
 streamlit run app.py
-
+```
 
 
