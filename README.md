@@ -93,7 +93,7 @@ pip install streamlit
     ```
     cd autoencoder-image-quality-manipulation/super-resolution/app
     ```
-    For denoising,
+    - For denoising,
     ```
     cd autoencoder-image-quality-manipulation/xray-denoising/app
     ```
