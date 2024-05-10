@@ -59,7 +59,7 @@ We then used Cross Entropy Loss as the loss function, Adam as the optimiser, the
 
 Again, we tried to model an architecture similar to UNET here. We however, used a more complex architecture as compared to the denoising model with 5 encoder layers, also making use of skip connections.
 
-We also tried 2 different types of loss - VGG Loss and MSE Loss as well and observed that the model learnt better when we used the MSE loss. The number of epochs was 20, optimiser was Adam, and the loss converged to about 0.001.
+We also tried 2 different types of loss - VGG Loss and MSE Loss. The model was trained for first 10 epochs using a combination of VGG Loss annd MSE loss to ensure semantic accuracy, and then using only MSE Loss for 10 more. Adam optimiser with learning rate of 0.0002 was used, the loss converged to about 0.001.
 
 ## Streamlit Interface
 
