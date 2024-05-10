@@ -37,10 +37,14 @@ During the course of the project, we were able to gain knowledge in the fields o
 
 **Datasets**
 
+**Datasets**
+
 We made use of 2 datasets that were publicly available on Kaggle for performing denoising and super resolution. For the denoising of images, we used a dataset on Kaggle that contained 120 black-white images of Teeth X-Ray. For the super resolution component, we used a dataset on Kaggle that had 685 low and corresponding high resolution images. The links for the datasets are provided below:
 
-[DATASET1_Super_Resolution ](https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution)
+[DATASET1_Super_Resolution](https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution)
+
 [DATASET2_Denosising](https://www.kaggle.com/datasets/parthplc/medical-image-dataset)
+
 
 **Model and Architecture**
 
