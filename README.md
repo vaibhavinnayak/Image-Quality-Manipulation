@@ -1,4 +1,4 @@
-**Mentors**
+**#Mentors**
 
 - Aakarsh Bansal
 - Abhishek Srinivas
@@ -35,7 +35,6 @@ During the course of the project, we were able to gain knowledge in the fields o
 1. Streamlit
 1. Pytorch
 
-**Datasets**
 
 **Datasets**
 
