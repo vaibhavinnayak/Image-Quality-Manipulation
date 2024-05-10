@@ -78,7 +78,9 @@ pip install streamlit
 
 Now, to run the app, please follow the given instructions:
 
-git clone https://github.com/raajanwankhade/autoencoder-image-quality-manipulation After this, for super resolution:
+git clone https://github.com/raajanwankhade/autoencoder-image-quality-manipulation 
+
+After this, for super resolution:
 
 cd autoencoder-image-quality-manipulation/super-resolution/app
 
