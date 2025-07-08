@@ -87,7 +87,7 @@ pip install streamlit
 
     - Clone the repository onto your local system
     ```
-    git clone https://github.com/raajanwankhade/autoencoder-image-quality-manipulation 
+    git clone https://github.com/vaibhavinnayak/Image-Quality-Manipulation.git 
     ```
     - After this, for super resolution:
     ```
